@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeAnony
-- 👀 I’m interested in fullstack Development
-- 🌱 I’m currently learning NEXT.js and MERN stack
+- 👀 I’m interested in frontend Development
+
 
 <!---
 FelipeAnony/FelipeAnony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
